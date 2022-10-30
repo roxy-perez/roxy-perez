@@ -6,4 +6,4 @@
 Coding for Codenotch...
 --->
 
-## Fundaments - Day 6
+## Codenotch - Fundaments - Day 6
