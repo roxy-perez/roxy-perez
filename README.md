@@ -5,3 +5,5 @@
 <!---
 Coding for Codenotch...
 --->
+
+## Fundaments - Day 6
