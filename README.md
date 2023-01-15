@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roxy-perez
-- 👀 I’m interested in Java, Javascript, CSS, SQL and Photography!! 😜
-- 🌱 I’m currently learning Full Stack Web Development.👩🏻‍💻
+- 👀 I’m interested in Javascript, CSS, HTML5, SQL, NoSQL, Java and Photography!! 😜
+- 🌱 I’m currently learning Full Stack Web Development at Codenotch.👩🏻‍💻
 
 <!---
 Currently learning and coding with Codenotch Academy...
