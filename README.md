@@ -2,9 +2,6 @@
 - 👀 I’m interested in Javascript, CSS, HTML5, SQL, NoSQL, Java and Photography!! 😜
 - 🌱 I’m currently learning Full Stack Web Development at Codenotch.👩🏻‍💻
 
-<!---
-Currently learning and coding with Codenotch Academy...
---->
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
