@@ -12,5 +12,5 @@
 </br>
 
 ## Contacta conmigo en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roxy_Pérez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]www.linkedin.com/in/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roxy_Pérez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/
 roxy-perez-polanco)
