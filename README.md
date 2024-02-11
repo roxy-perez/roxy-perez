@@ -3,6 +3,8 @@
 - 🌱 I've recently finished a Full Stack Web Development bootcamp at Codenotch.👩🏻‍💻
 
 ## Tecnologías:
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-F3B724?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
