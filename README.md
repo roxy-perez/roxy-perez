@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roxy-perez
 - 👀 I’m interested in Javascript, Laravel, CSS, HTML5, SQL and Photography!! 😜
 - 🌱 I've recently finished a Full Stack Web Development bootcamp at Codenotch.👩🏻‍💻
-- 🔥 Currently working as a Laravel Developer at [https://img.shields.io/badge/Foundspot-blue?style=plastic&logo=visualstudiocode&logoColor=white&labelColor=101010](https://www.foundspot.com).
+- 🔥 Currently working as a Laravel Developer at [!https://img.shields.io/badge/Foundspot-blue?style=plastic&logo=visualstudiocode&logoColor=white&labelColor=101010](https://www.foundspot.com).
 
 ## Tecnologías:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
