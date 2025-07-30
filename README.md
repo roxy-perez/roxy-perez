@@ -2,12 +2,14 @@
   <img src="profile2.png" alt="Banner Roxy Pérez" width="20%"  />
 </p>
 
+<div align="center">
 <table>
   <tr>
     <td><img src="99-128.webp" alt="Logo" width="50" /></td>
     <td><h1>Hola, soy Roxy 👋</h1></td>
   </tr>
 </table>
+</div>
 
 <p align="center">Desarrolladora en **constante** formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
 
