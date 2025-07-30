@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SwiftUI-learning-orange?logo=swift" />
-  <img src="https://img.shields.io/badge/WeWeb-No%20Code-blue?logo=webflow" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-PHP-red?logo=laravel" />
   <img src="https://img.shields.io/badge/Docker-containers-2496ED?logo=docker" />
   <img src="https://img.shields.io/badge/MySQL-DB-blue?logo=mysql" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E1D95?logo=laravel&logoColor=white" alt="Livewire Badge" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
