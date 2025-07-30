@@ -11,7 +11,7 @@
 </table>
 </div>
 
-<p align="center">Desarrolladora en **constante** formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
+<p align="center">Desarrolladora en <b>constante</b> formación y crecimiento • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SwiftUI-learning-orange?logo=swift" />
