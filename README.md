@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="99-128.webp" alt="Banner Roxy Pérez" width="100%" />
-  <img src="99-128.webp" alt="Banner Roxy Pérez" width="50%" />
+  <img src="99-128.webp" alt="Logo" width="20%" />
+  <img src="profile2" alt="Banner Roxy Pérez" width="30%" />
 </p>
 
 <h1 align="center">Hola, soy Roxy 👋</h1>
