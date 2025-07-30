@@ -15,7 +15,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SwiftUI-learning-orange?logo=swift" />
-  <img src="https://img.shields.io/badge/Flutter-development-white?logo=flutter"/>
+  <img src="https://img.shields.io/badge/Flutter-development-02569B?logo=flutter"/>
   <img src="https://img.shields.io/badge/Laravel-PHP-red?logo=laravel" />
   <img src="https://img.shields.io/badge/Docker-containers-2496ED?logo=docker" />
   <img src="https://img.shields.io/badge/MySQL-DB-blue?logo=mysql" />
