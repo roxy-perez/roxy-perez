@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/uR3e1UQ.png" alt="Banner Roxy Pérez" width="100%" />
+</p>
+
 <h1 align="center">Hola, soy Roxy 👋</h1>
-<p align="center">Desarrolladora SIEMPRE en constante formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
+<p align="center">Desarrolladora en COSNTANTE formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SwiftUI-learning-orange?logo=swift" />
@@ -65,5 +69,21 @@ struct LearningPath: View {
         }
     }
 }
+```
 
+### 🌐 Conecta conmigo
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/roxy-perez/)
+- 🌐 [Sitio personal / portfolio](https://roxy-perez.netlify.app/)
+- 💌 Email: necropsia32@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/roxy-perez/" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Contáctame%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Roxy Pérez" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roxy-perez&label=Visitas&color=green" alt="visitas perfil" />
+</p>
 
