@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="profile2.png" alt="Banner Roxy Pérez" width="20%"  />
+  <img src="profile2.png" alt="Banner Roxy Pérez" style="height: 60%; width:60%;" />
 </p>
+
+## Hola, soy Roxy 👋
 
 <div align="center">
 <table>
