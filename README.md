@@ -81,17 +81,13 @@ struct LearningPath: View {
 
 ### 🌐 Conecta conmigo
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/roxy-perez/](https://www.linkedin.com/in/roxy-perez-polanco/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/roxy-perez-polanco/)
 - 🌐 [Sitio personal / portfolio](https://roxy-perez.netlify.app/)
 - 💌 Email: necropsia32@gmail.com
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/roxy-perez/" target="_blank">
+  <a href="https://www.linkedin.com/in/roxy-perez-polanco/" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20Contáctame%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Roxy Pérez" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roxy-perez&label=Visitas&color=green" alt="visitas perfil" />
 </p>
 
