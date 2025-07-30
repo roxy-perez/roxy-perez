@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="99-128.webp" alt="Logo" width="4%" />
   <img src="profile2.png" alt="Banner Roxy Pérez" width="20%"  />
 </p>
 
+<img src="99-128.webp" alt="Logo" width="4%" />
 <h1 align="center">Hola, soy Roxy 👋</h1>
-<p align="center">Desarrolladora en COSNTANTE formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
+<p align="center">Desarrolladora en **constante** formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SwiftUI-learning-orange?logo=swift" />
