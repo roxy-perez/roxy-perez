@@ -26,9 +26,9 @@
 
 ### 🚀 Sobre mí
 
-🌱 Actualmente estoy aprendiendo **Swift**, **SwiftUI** **Flutter** para desarrollar aplicaciones iOS y Android con propósito social.
+🌱 Actualmente estoy aprendiendo **Swift**, **SwiftUI** para desarrollar aplicaciones iOS con propósito social. Usando **Flutter**, Laravel, Dockers, Javascript, Python, CSS y HTML como parte de mi Workflow.
 
-💡 Mi enfoque está en el desarrollo de **apps inclusivas y comunitarias**, como **Canari@Conecta**, una plataforma para conectar personas voluntarias con quienes más lo necesitan en las Islas Canarias.
+💡 Mi enfoque está en el desarrollo de **apps inclusivas y comunitarias**, como **Canari@Conecta**, una plataforma para conectar personas voluntarias con quienes más lo necesitan en las Islas Canarias. 
 
 🌍 Interesada en proyectos de **tecnología cívica**, **educación digital**, **voluntariado tech** y dar rienda suelta a la creatividad.
 
