@@ -81,7 +81,7 @@ struct LearningPath: View {
 
 ### 🌐 Conecta conmigo
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/roxy-perez/)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/roxy-perez/](https://www.linkedin.com/in/roxy-perez-polanco/))
 - 🌐 [Sitio personal / portfolio](https://roxy-perez.netlify.app/)
 - 💌 Email: necropsia32@gmail.com
 
