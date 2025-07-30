@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="profile2.png" alt="Banner Roxy Pérez" style="height: 60%; width:60%;" />
+  <img src="profile2.png" alt="Banner Roxy Pérez" style="height: 20%; width:20%;" />
 </p>
 
-## Hola, soy Roxy 👋
-
 <div align="center">
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td><img src="99-128.webp" alt="Logo" width="50" /></td>
+    <td><img src="99-128.webp" alt="Logo" width="40" /></td>
     <td><h1>Hola, soy Roxy 👋</h1></td>
   </tr>
 </table>
