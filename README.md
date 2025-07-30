@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/uR3e1UQ.png" alt="Banner Roxy Pérez" width="100%" />
+  <img src="banner.png" alt="Banner Roxy Pérez" width="100%" />
 </p>
 
 <h1 align="center">Hola, soy Roxy 👋</h1>
