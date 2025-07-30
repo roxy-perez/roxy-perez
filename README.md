@@ -8,8 +8,7 @@
     <td><h1>Hola, soy Roxy 👋</h1></td>
   </tr>
 </table>
-<img src="99-128.webp" alt="Logo" width="4%" />
-<h1 align="center">Hola, soy Roxy 👋</h1>
+
 <p align="center">Desarrolladora en **constante** formación • Voluntaria digital • Enfocada en crear impacto social desde Canarias</p>
 
 <p align="center">
